@@ -12,20 +12,17 @@
 
 ---
 
-## 📈 Training Curves  
+## 📈 Training Curves & Visualizations  
 
-**Accuracy & Loss:**  
-![Accuracy & Loss](https://raw.githubusercontent.com/skillcraft-technology/hand-gesture-recognition/main/images/accuracy_loss.png)
+- Training vs Validation Accuracy  
+- Training vs Validation Loss  
+- Confusion Matrix  
+- Sample Predictions  
 
-**Confusion Matrix:**  
-![Confusion Matrix](https://raw.githubusercontent.com/skillcraft-technology/hand-gesture-recognition/main/images/confusion_matrix.png)
+(Plots are available in the `images/` folder of this repository.)  
 
-**Sample Prediction:**  
-![Sample Prediction](https://raw.githubusercontent.com/skillcraft-technology/hand-gesture-recognition/main/images/sample_prediction.png)
 ---
-
 ## 🛠️ Tech Stack  
-
 - **Python**  
 - **TensorFlow / Keras**  
 - **OpenCV**  
@@ -33,5 +30,6 @@
 - **Matplotlib / Seaborn**  
 
 ---
+
 ## 📂 Repository Structure  
 
